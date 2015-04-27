@@ -10,31 +10,31 @@
 	<string>GBA4iOS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>06FD48125DFE81FB1B425C0C91967DD45A14FB46</key>
-		<string>https://github.com/MattPiscopo/GBA4iOS-2.1-BETA.git</string>
+		<key>087B99FA69370C7231802D0DC3EE4A3209A19DC4</key>
+		<string>https://github.com/crazypoo/GBA_REBUILD.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GBA4iOS.xcworkspace</string>
+	<string>GBA4iOS-2.1-BETA-master/GBA4iOS.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>06FD48125DFE81FB1B425C0C91967DD45A14FB46</key>
-		<string>..</string>
+		<key>087B99FA69370C7231802D0DC3EE4A3209A19DC4</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/MattPiscopo/GBA4iOS-2.1-BETA.git</string>
+	<string>https://github.com/crazypoo/GBA_REBUILD.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>06FD48125DFE81FB1B425C0C91967DD45A14FB46</string>
+	<string>087B99FA69370C7231802D0DC3EE4A3209A19DC4</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>06FD48125DFE81FB1B425C0C91967DD45A14FB46</string>
+			<string>087B99FA69370C7231802D0DC3EE4A3209A19DC4</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GBA4iOS-2.1-BETA</string>
+			<string>GBA_REBUILD</string>
 		</dict>
 	</array>
 </dict>
